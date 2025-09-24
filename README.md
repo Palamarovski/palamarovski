@@ -2,7 +2,7 @@
 
 ## I'm beginner Java Developer
 
-##Language and tools 
+### Languages and Tools 
 ![Java](https://img.shields.io/badge/Java%20Core-917037?style=for_the_badge&logo=openjdk&LogoColor=D0722B)
 
 Follow me
