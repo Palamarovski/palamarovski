@@ -15,5 +15,5 @@
 ### Follow me
 [![Gmail](https://img.shields.io/badge/-palamarnicholas@gmail.com-434125?style=for-the-badge&logo=gmail&logoColor=D14836)](https://www.instagram.com/palamarovski)
 [![Instagram](https://img.shields.io/badge/-Instagram-434125?style=for-the-badge&logo=instagram&logoColor=yellow)](https://www.instagram.com/palamarovski)
-[![Telegram](https://img.shields.io/badge/-Telegram-434125?style=for-the-badge&logo=Telegram&logoColor=blue)](https://www.telegram.com/palamarovski)
+[![Telegram](https://img.shields.io/badge/-Telegram-434125?style=for-the-badge&logo=Telegram&logoColor=blue)](https://www.t.me/palamarovski)
 
