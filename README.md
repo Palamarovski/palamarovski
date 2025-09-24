@@ -6,7 +6,11 @@
     in databases, mathematics, and algorithms and data structures.
 
 ### Languages and Tools 
-![Java](https://img.shields.io/badge/Java%20Core-917037?style=for_the_badge&logo=openjdk&LogoColor=D0722B)
+![Java](https://img.shields.io/badge/Java%20Core-917037?style=for-the-badge&logo=openjdk&LogoColor=D0722B)
+![Sping Boot](https://img.shields.io/badge/Spring%20Boot-917037?style=for-the-badge&logo=springBoot)
+![JavaFX](https://img.shields.io/badge/Java%20FX-917037?style=for-the-badge&logo=javafx)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-917037?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-917037?style=for-the-badge&logo=mysql)
 
 ### Follow me
 ![Gmail](https://img.shields.io/badge/palamarnicholas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
