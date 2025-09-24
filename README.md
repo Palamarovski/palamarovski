@@ -2,8 +2,8 @@
 
 ### I'm beginner Java Developer
     Currently, I am improving my skills by solving various programming challenges. I am also learning: 
-    Spring Boot, JavaFX, and SQL. Simultaneously, I am a university student, where I enhance my knowledge in databases, mathematics, and algorithms
-    and data structures.
+    Spring Boot, JavaFX, and SQL. Simultaneously, I am a university student, where I enhance my knowledge
+    in databases, mathematics, and algorithms and data structures.
 
 ### Languages and Tools 
 ![Java](https://img.shields.io/badge/Java%20Core-917037?style=for_the_badge&logo=openjdk&LogoColor=D0722B)
