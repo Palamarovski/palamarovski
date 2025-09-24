@@ -1,6 +1,6 @@
-[![Header](https://github.com/Palamarovski/palamarovski/blob/main/assets/image.png)]
+[![Header](https://github.com/Palamarovski/palamarovski/blob/main/assets/imageheader.png)]
 
-About me:
+## I'm beginner Java Developer
 
 Language and tools 
 
