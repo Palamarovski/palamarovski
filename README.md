@@ -6,4 +6,4 @@
 ![Java](https://img.shields.io/badge/Java%20Core-917037?style=for_the_badge&logo=openjdk&LogoColor=D0722B)
 
 ### Follow me
-[![Gmail](https://img.shields.io/badge/Gmail-917037?style=for_the_badge&logo=gmail&LogoColor=D0722B)(mailto:palamarnicholas@gmail.com)]
+![Gmail](https://img.shields.io/badge/palamarnicholas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
