@@ -11,6 +11,7 @@
 ![JavaFX](https://img.shields.io/badge/Java%20FX-black?style=for-the-badge&logo=javafx)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&LogoColor=E72822)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 
 ### Follow me
 [![Gmail](https://img.shields.io/badge/-palamarnicholas@gmail.com-434125?style=for-the-badge&logo=gmail&logoColor=D14836)](https://www.instagram.com/palamarovski)
